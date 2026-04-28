@@ -13,7 +13,7 @@
 
 | Apellido y Nombre | E-mail | GitHub |
 | :--- | :---| :---:|
-| Lopez Joaquin |joaquinlopez@escuelasproa.edu.ar| [ver perfil](https://github.com/https://github.com/joacojoaco514-ui)|
+| Motta Joaquin |jmojtta@escuelasproa.edu.ar| [ver perfil](https://github.com/Joako3312/estacion-meteorologica.git)|
 ---
 ```diff
  ## **Estructura del Proyecto**
